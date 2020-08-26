@@ -8,3 +8,17 @@
 
 ![Squamata - birthing the tale that feeds it](https://github.com/pbrown-usgs/SquamataAssemblyAMT/blob/master/SquamataLemniscateOuroboros.png)
 
+### Version 1.0
+
+This Jupyter Notebook performs the following operations:
+- Loads a CSV file.
+- Determins Null Values
+- Changes Null values to a value defined by the user
+- Output to a new CSV file
+
+
+### To execute a function/command select a cell and Hold-Shift + Press-Enter
+
+**The 'r' signifies a string literal. Use for paths.**
+
+- v1.0: Read csv File into pandas, Create Array of csv column headers, assign header array of channel descriptions and units.
