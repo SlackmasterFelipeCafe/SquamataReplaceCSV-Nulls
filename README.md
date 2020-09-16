@@ -2,7 +2,7 @@
 
 **Squamata** is the largest order of reptiles, comprising lizards, snakes and amphisbaenians (worm lizards), which are collectively known as squamates or scaled reptiles.
 
-**SquamataReplaceCSV-Nulls** is a Jupyter notebook for reading a CSV file, replacing null vallues with a user selected value and writting a new CSV file.
+**SquamataReplaceCSV-Nulls** is a Jupyter notebook that reads a CSV file, checks to see if the CSV contains any null values, replaces any null vallues with a user selected value and writes a new CSV file.
 
 *"Birthing the tail that feeds it..."* 
 
